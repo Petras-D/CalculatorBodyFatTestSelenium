@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf84ac7-da9f-48ef-84a4-ce30b6548b7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Page/PageMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/sitetocheckyourbodyfat/hello-view.fxml" afterDir="false" />
+    <list default="true" id="8bf84ac7-da9f-48ef-84a4-ce30b6548b7a" name="Changes" comment="Easy site to calculate your body fat">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +36,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected="TestNG.test.CalculateYourBodyFat">
@@ -103,6 +95,21 @@
       <option name="presentableId" value="Default" />
       <updated>1674155427918</updated>
     </task>
+    <task id="LOCAL-00001" summary="Easy site to calculate your body fat">
+      <created>1674159461644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674159461644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Easy site to calculate your body fat">
+      <created>1674159594710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674159594710</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Easy site to calculate your body fat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Easy site to calculate your body fat" />
   </component>
 </project>
